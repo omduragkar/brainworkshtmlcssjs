@@ -1,4 +1,4 @@
-// To show aler message
+// To show alert message
 var alertPlaceholder = document.getElementById('liveAlertPlaceholder')
 // Add button
 var alertTrigger = document.getElementById('liveAlertBtn')
